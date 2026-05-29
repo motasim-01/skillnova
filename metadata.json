@@ -1,0 +1,6 @@
+{
+  "name": "SkillNova",
+  "description": "Elevate your potential with AI-guided learning. Experience a lucid, digital workspace bridging traditional scholarly authority with cutting-edge technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
